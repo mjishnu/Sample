@@ -1,0 +1,2 @@
+# car cover
+This script fetches and parses search results for car covers from OLX India. It uses the `requests` library or `selenium` with edge to make HTTP requests and `BeautifulSoup` to parse the HTML content. The script extracts details such as title, price, location, date, and URL of each listing and prints them in JSON.
